@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/basic-kafka" />
+            <option value="$PROJECT_DIR$/simple-communication-app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-debezium" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kafka-debezium" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-debezium/embedded" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kafka-debezium/embedded" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-debezium/spring-integration" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kafka-debezium/spring-integration" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-debezium/standalone" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kafka-debezium/standalone" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-stream" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kafka-stream" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/simple-communication-app" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/simple-communication-app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

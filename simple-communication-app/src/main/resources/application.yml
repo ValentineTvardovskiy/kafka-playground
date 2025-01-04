@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: simple-communication-app
+  kafka:
+#    #props setup alternative to KafkaConfig
+#    consumer:
+#      group-id: simple-listener-group
+#      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+#      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+#      properties:
+#        spring.json.trusted.packages: "*"
+#    producer:
+#      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+#      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+#      properties:
+#        spring.json.trusted.packages: "*"
+    bootstrap-servers: localhost:9092
+app:
+  topic: weather-data
+server:
+  port: 8081
