@@ -1,4 +1,5 @@
 rootProject.name = 'kafka-playground'
 include 'basic-kafka'
 include 'simple-communication-app'
+include 'debezium-embedded'
 

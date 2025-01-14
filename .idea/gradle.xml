@@ -10,39 +10,16 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/basic-kafka" />
+            <option value="$PROJECT_DIR$/debezium-embedded" />
             <option value="$PROJECT_DIR$/simple-communication-app" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-debezium" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/debezium-embedded" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/kafka-debezium" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-debezium/embedded" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/kafka-debezium/embedded" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-debezium/spring-integration" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/kafka-debezium/spring-integration" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-debezium/standalone" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/kafka-debezium/standalone" />
+            <option value="$PROJECT_DIR$/debezium-embedded" />
           </set>
         </option>
       </GradleProjectSettings>

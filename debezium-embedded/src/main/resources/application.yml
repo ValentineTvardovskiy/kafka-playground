@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: debezium-embedded
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    password: postgres
+    username: postgres
+    url: jdbc:postgresql://127.0.0.1:5432/debeziumtest
+    hikari:
+      maximum-pool-size: 5
+      pool-name: pool
+server:
+  port: 8081
